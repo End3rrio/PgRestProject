@@ -1,1 +1,1 @@
-# PgRestProject
+# PostgreSQL REST Spring Pet Project
